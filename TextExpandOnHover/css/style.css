@@ -29,7 +29,7 @@ h1 span:nth-child(even)
 	overflow: hidden;
 	transition: 0.5s;
 }
-h1.hover span:nth-child(even)
+h1:hover span:nth-child(even)
 {
 	letter-spacing: 0;
 }
